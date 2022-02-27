@@ -1,5 +1,5 @@
 # GraphieCounter
-GraphieCounter est un programme crée avec ❤️ pour les étudiants apprenant la Graphie et devant compter leurs graphies dans leurs textes.
+GraphieCounter est un programme crée avec ❤️ pour les étudiants apprenant la l'orthographe et devant compter leurs graphies dans leurs textes.
 ## Prérequis
 
 Installer Python 3 sur votre ordinateur, téléchargez le en cliquant [ici](https://www.python.org/downloads/).
